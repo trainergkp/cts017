@@ -6,3 +6,6 @@ PHP
 Python
 Node Js
 Angular
+HTML
+CSS
+Javascript

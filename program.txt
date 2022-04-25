@@ -4,3 +4,5 @@ Java
 Dot Net
 PHP
 Python
+Node Js
+Angular

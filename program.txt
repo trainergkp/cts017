@@ -2,3 +2,5 @@ welcome to cognizant
 software list
 Java
 Dot Net
+PHP
+Python
